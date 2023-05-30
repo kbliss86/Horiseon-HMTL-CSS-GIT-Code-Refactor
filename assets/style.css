@@ -91,8 +91,98 @@ p {
     margin-left: 20px;
 }
 
-/*SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+.content div {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* controls the background and text colors/font for the section as well as the height, margin and padding
+.search-engine-optimization {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* controls the background and text colors/font for the section as well as the height, margin and padding
+.online-reputation-management {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+/* controls the background and text colors/font for the section as well as the height, margin and padding
+.social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+/*CODE ADJUSTMENT END*/
+
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+.content div img {
+     max-height: 200px;
+}
+
+/*controls max height of images in this class
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+/*controls max height of images in this class
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+/*controls max height of images in this class
+.social-media-marketing img {
+    max-height: 200px;
+}
+/*CODE ADJUSTMENT END*/
+
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+.content div h2 {
+     margin-bottom: 20px;
+     font-size: 36px;
+    }
+
+/* controls the font size and margin thickness for this class
+.search-engine-optimization h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* controls the font size and margin thickness for this class
+.online-reputation-management h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* controls the font size and margin thickness for this class
+.social-media-marketing h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*CODE ADJUSTMENT END*/
+
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
 /* controls the content in the "Benefits" section*/
 .benefits {
     margin-right: 20px;
@@ -104,188 +194,92 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*SECTION NOTE END*/
+/*CODE ADJUSTMENT END*/
 
-/*SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
-.benefits section {
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+.benefits div {
     margin-bottom: 32px;
     color: #ffffff;
-}*/
+}
 
-/*Makes the "Lead Generation" text appear larger and white*/
+/*Makes the "Lead Generation" text appear larger and white
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*Makes the "Brand Awareness" text appear larger and white*/
+/*Makes the "Brand Awareness" text appear larger and white
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*Makes the "Cost Management" text appear larger and white*/
+/*Makes the "Cost Management" text appear larger and white
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*SECTION NOTE END*/
+/*CODE ADJUSTMENT END*/
 
-/* SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
-/*this could just be h3?
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
 .benefits h3 {
     margin-bottom: 10px;
-    text-allign: center;
-}*/
+    text-align: center;
+}
 
-/*Centers the "Lead Generation" text*/
+/*Centers the "Lead Generation" text
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Centers the "Brand Awareness" text*/
+/*Centers the "Brand Awareness" text
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*Centers the "Cost Management" text*/
+/*Centers the "Cost Management" text
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
 }
+/*CODE ADJUSTMENT END*/
 
-/* SECTION NOTE END*/
-
-/* SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
+/*CODE ADJUSTMENT BEGIN*/
+/*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
+/*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
 .benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}*/
+}
 
-/* controls any image in the "benefit-lead" section*/
+/* controls any image in the "benefit-lead" section
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* controls any image in the "benefit-brand" section*/
+/* controls any image in the "benefit-brand" section
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/* controls any image in the "benefit-cost" section*/
+/* controls any image in the "benefit-cost" section
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-/* SECTION NOTE END*/
-
-/* SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
-.content section {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}*/
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding*/
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-/* SECTION NOTE END*/
-
-/* SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
-.content img {
-     max-height: 200px;
-}*/
-
-/*controls max height of images in this class*/
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/*controls max height of images in this class*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/*controls max height of images in this class*/
-.social-media-marketing img {
-    max-height: 200px;
-}
-/* SECTION NOTE END*/
-
-/* SECTION NOTE BEGIN*/
-/* Move this code block to the bottom - sequnetial with HTML*/
-/*This section can be cleaned up maybe?
-/*content is not even needed - it could be just .h2?
-.content h2 {
-     margin-bottom: 20px;
-     font-size: 36px
-    }*/
-
-/* controls the font size and margin thickness for this class*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* controls the font size and margin thickness for this class*/
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* controls the font size and margin thickness for this class*/
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/* SECTION NOTE END*/
+/*CODE ADJUSTMENT END*/
 
 .footer {
     padding: 30px;
@@ -294,8 +288,10 @@ p {
     text-align: center;
 }
 
-
-/* make this just be h4*/
-.footer h2 {
+/*CODE ADJUSTMENT BEGIN*/
+/*Adjusted this to "h4" element to align with changes made to HTML*/
+/*This affects the text size for all text in the "h4" element*/
+.footer h4 {
     font-size: 20px;
 }
+/*CODE ADJUSTMENT END*/
