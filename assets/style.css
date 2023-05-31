@@ -93,6 +93,7 @@ p {
 
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/* controls the background and text colors/font for the section as well as the height, margin and padding*/
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -101,84 +102,23 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* controls the background and text colors/font for the section as well as the height, margin and padding
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
 /*CODE ADJUSTMENT END*/
 
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/*controls max height of images in this class*/
 .content div img {
      max-height: 200px;
 }
-
-/*controls max height of images in this class
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-/*controls max height of images in this class
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-/*controls max height of images in this class
-.social-media-marketing img {
-    max-height: 200px;
-}
 /*CODE ADJUSTMENT END*/
 
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/* controls the font size and margin thickness for this class*/
 .content div h2 {
      margin-bottom: 20px;
      font-size: 36px;
     }
-
-/* controls the font size and margin thickness for this class
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* controls the font size and margin thickness for this class
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-/* controls the font size and margin thickness for this class
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 /*CODE ADJUSTMENT END*/
 
 /*CODE ADJUSTMENT BEGIN*/
@@ -199,82 +139,28 @@ p {
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/*Makes the margin below each section of the div*/
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-/*Makes the "Lead Generation" text appear larger and white
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*Makes the "Brand Awareness" text appear larger and white
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/*Makes the "Cost Management" text appear larger and white
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 /*CODE ADJUSTMENT END*/
 
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/*Centers the "header" text in the benefits section*/
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-/*Centers the "Lead Generation" text
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Centers the "Brand Awareness" text
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/*Centers the "Cost Management" text
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 /*CODE ADJUSTMENT END*/
 
 /*CODE ADJUSTMENT BEGIN*/
 /*Note for Instructor: Moved this code block to the bottom - sequnetial with HTML*/
 /*Note for Instructor: This section was cleaned up - it was not necessary to have 3 seperate css code blocks for the same elements in HTML*/
+/*controls the size/margin and max width of all images in the benefits section*/
 .benefits img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* controls any image in the "benefit-lead" section
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* controls any image in the "benefit-brand" section
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* controls any image in the "benefit-cost" section
-.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

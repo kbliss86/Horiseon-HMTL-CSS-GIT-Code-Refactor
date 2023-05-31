@@ -15,16 +15,16 @@ This way, an assistive technology can read the caption but it will not interfere
 
 I changed the footer element and changed the "h2" to "h4" so that any assistive technology would not have difficulty telling that header section apart from the main content section!
 
-I noted in the code that there were IDs assigned to elements in the "main content" section that were not neccessary, since it is best practive to use ID's sparingly I Recomend that they be removed since they are not needed.
+I fixed an issue with the "Search Engine Optimization" link not working properly due to a missing id in the main content section.
 
-I noted in the code that there were Classes assigned to elements in the "main content" and "Benefits" sections that were not neccessary, The CSS required for those sections does not need to utilize "classes" other than the ones associated with the images for Left/right float.
+I noted in the code that there were Classes assigned to elements in the "main content" and "Benefits" sections that were not neccessary, The CSS required for those sections does not need to utilize "classes" other than the ones associated with the images for Left/right float. I kept the classed in for future scalability of the project!
 
 I adjusted the CSS code to be in line sequentially with the HTML by moving all the "benefits" class CSS below the "content" class CSS but above the "footer" CSS. This was done to make it easier for other developers in the future to make adjustments.
 
 I Adjusted the code for several classes  to be more "universal" for the section of code they were in, this resulted in the removal of 12 code blocks from the CSS file, which should make it easier for future developers to manage!
 
 ## How to install and run the project
-To view the web page you can go to: https://kbliss86.github.io/bootcamp-challenge-01/ or you can clone the repository onto your local drive and view it in preview mode there.
+To view the web page you can go to: https://kbliss86.github.io/bootcamp-challenge-01/ or you can clone the repository onto your local drive and view it in preview mode there by visting the repository here: https://github.com/kbliss86/bootcamp-challenge-01.
 
 ## Use of the project
 The use of this project is for educational purposes only on how to properly set up a web page to be AA compliant.
@@ -33,6 +33,6 @@ The use of this project is for educational purposes only on how to properly set 
 This project starter code was provided by Northwest coding bootcamp and all comments and edits were made by me
 
 ## Screenshots
-![Website header and nav bar with "hero" section](/bootcamp-challenge-01/assets/images/Horiseon%20SC%20-01.PNG)
-![Website main and sub content](/bootcamp-challenge-01/assets/images/Horiseon%20SC%20-02.PNG)
-![Website Footer Content](/bootcamp-challenge-01/assets/images/Horiseon%20SC%20-03.PNG)
+![Website header and nav bar with "hero" section](../assets/images/Horiseon%20SC%20-01.PNG)
+![Website main and sub content](../assets/images/Horiseon%20SC%20-02.PNG)
+![Website Footer Content](../assets/images/Horiseon%20SC%20-03.PNG)
