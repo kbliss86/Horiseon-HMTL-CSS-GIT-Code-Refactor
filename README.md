@@ -33,6 +33,6 @@ The use of this project is for educational purposes only on how to properly set 
 This project starter code was provided by Northwest coding bootcamp and all comments and edits were made by me
 
 ## Screenshots
-![Website header and nav bar with "hero" section](../assets/images/Horiseon%20SC%20-01.PNG)
-![Website main and sub content](../assets/images/Horiseon%20SC%20-02.PNG)
-![Website Footer Content](../assets/images/Horiseon%20SC%20-03.PNG)
+![Website header and nav bar with "hero" section](https://github.com/kbliss86/bootcamp-challenge-01/blob/main/assets/images/Horiseon%20SC%20-01.PNG)
+![Website main and sub content](https://github.com/kbliss86/bootcamp-challenge-01/blob/main/assets/images/Horiseon%20SC%20-02.PNG)
+![Website Footer Content](https://github.com/kbliss86/bootcamp-challenge-01/blob/main/assets/images/Horiseon%20SC%20-03.PNG)
