@@ -61,7 +61,7 @@ p {
     width: 100%;
     margin-bottom: 25px;
     /* I had to adjust the "background-image code becuase the file path it originally had was not loading correctly*/
-    background-image: url("../assets/images/digital-marketing-meeting.jpg");
+    background-image: url("/Horiseon-HMTL-CSS-GIT-Code-Refactor/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
